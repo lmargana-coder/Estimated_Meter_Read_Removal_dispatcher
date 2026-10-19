@@ -1,0 +1,6 @@
+{
+  "Name": "Elec Acquisition Modeswitch_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Elec Acquisition Modeswitch Process in Gentrack",
+  "MainFile": "Main.xaml"
+}
